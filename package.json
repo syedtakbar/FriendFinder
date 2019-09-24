@@ -1,0 +1,26 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Dating app using Node and Express Servers",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.19.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedtakbar/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "Syed Akbar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syedtakbar/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/syedtakbar/FriendFinder#readme"
+}
